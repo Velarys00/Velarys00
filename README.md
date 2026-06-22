@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1501680240798466119/1518442900969492632/God_Hands_ASCII_Art.jpg?ex=6a39efa6&is=6a389e26&hm=cf3b671f73cbea0ca4c87233eb0208133269682437ec7f26f37ae0cf387225ac&animated=true" alt="Profile Banner" width="100%" />
+  <img src="https://cdn.discordapp.com/attachments/1501680240798466119/1518444755053318155/God_Hands_ASCII_Art1.jpg?ex=6a39f160&is=6a389fe0&hm=e9a8eb574fdafd021421609195ce4740fa9ac51286f81b70cfe7ac1508287c12&animated=true" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
